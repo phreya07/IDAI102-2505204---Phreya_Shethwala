@@ -43,4 +43,16 @@ Constant push notifications saying "TIME TO TAKE YOUR MEDICATION" feel nagging a
 4) No emotional design
 Sterile medical aesthetics with white backgrounds, blue pill icons, and hospital-style fonts make users feel like patients rather than people taking care of themselves.
 
+# 💡 MedTimer's Solutions
+1) Simplified One-Screen Design
+All essential features visible at once—no hidden menus, confusing navigation, or multi-step processes. Add medicine, see schedule, mark taken, view progress: everything in one glance.
+2) Age-Appropriate Personalization
+Onboarding captures user context (age, preferences) to customize greeting language, companion animal selection, and interface warmth. Seniors get extra-large text and calming colors automatically.
+3) Gamification Without Pressure
+Rewards celebrate consistency (streak badges) without punishing missed doses. Mascot displays encouragement regardless of adherence level—"Your turtle believes in you!" even at 60%.
+4) Emotional Design Language
+Soft gradients, friendly emojis, warm color palettes, and companion animals create feelings of care and support rather than clinical monitoring. The app feels like a friend, not a medical device.
+
+streamlit link- https://i102-2505204--phreyashethwala.streamlit.app/
+
   
